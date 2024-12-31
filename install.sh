@@ -106,11 +106,11 @@ cp $HOME/archrice/.inputrc $HOME/.inputrc
 cp $HOME/archrice/.xinitrc $HOME/.xinitrc
 
 declare -a repos=(
-  "https://github.com/nyx-void/dwm.git"
-  "https://github.com/nyx-void/dmenu.git"
-  "https://github.com/nyx-void/st.git"
-  "https://github.com/nyx-void/slstatus.git"
-  "https://github.com/nyx-void/slock.git"
+  "https://github.com/amritxyz/dwm.git"
+  "https://github.com/amritxyz/dmenu.git"
+  "https://github.com/amritxyz/st.git"
+  "https://github.com/amritxyz/slstatus.git"
+  "https://github.com/amritxyz/slock.git"
 )
 
 for repo in "${repos[@]}"; do
